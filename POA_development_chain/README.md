@@ -40,3 +40,7 @@ Initialize the nodes with genesis json file
 ./geth --datadir node2 --unlock "309584f8a78e85000366d270723537cf43c9382d" --mine --port 30304 --bootnodes "enode://9b3b4bc71cb48415104365dbf1a3baa7ec5bfd2e@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
  ```
 ## ![headline_photo](Screenshots/Screenshot5.jpg)
+
+Mining successfully and transacted successfully
+
+## ![headline_photo](Screenshots/Screenshot6.jpg)
